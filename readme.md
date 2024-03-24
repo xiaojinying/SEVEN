@@ -3,8 +3,9 @@
 
 Our results achieved
 
-![image text](https://github.com/xiaojinying/SEVEN/fig/plot1.png)
-![image text](https://github.com/xiaojinying/SEVEN/fig/plot2.png)
+![image text](https://github.com/xiaojinying/SEVEN/blob/master/fig/plot1.png)
+![image text](https://github.com/xiaojinying/SEVEN/blob/master/fig/plot2.png)
+
 
 
 ## TODO List
