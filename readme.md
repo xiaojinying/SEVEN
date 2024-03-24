@@ -16,6 +16,7 @@ Our results achieved
 
 ## Contents
 - [Clone](#install)
+- [Requirements](#Requirements)
 - [Experiments](#experiments)
 - [Citation](#citation)
 
@@ -27,7 +28,12 @@ You can clone this repo and install it locally.
 git clone https://github.com/xiaojinying/SEVEN.git
 ```
 
-
+## Requirements
+```
+datasets>=2.18.0
+easydict>=1.11
+transformers>=4.35.2
+```
 ## Experiments
 
 ### GLUE
