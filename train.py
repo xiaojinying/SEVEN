@@ -16,6 +16,7 @@ def main():
     batch_size = config.batchsize
     steps = config.epoch
 
+
     lr = config.learning_rate
     # Load DataLoader
     print(f"\nLoading data...")
